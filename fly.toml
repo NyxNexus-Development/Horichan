@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for nyxeclipse on 2026-09-19T12:21:48Z
+# fly.toml app configuration file generated for nyxeclipse on 2026-09-19T12:47:19Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
 app = 'nyxeclipse'
-primary_region = 'ams'
+primary_region = 'iad'
 
 [build]
 
