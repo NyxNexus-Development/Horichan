@@ -1,6 +1,14 @@
-# TitanBot - Ultimate Discord Bot
+# NyxEclipse - Ultimate Discord Bot
 
-**TitanBot** is a powerful, feature-rich Discord bot designed to enhance your server experience with comprehensive moderation tools, engaging economy systems, utility features, and much more. Built with modern Discord.js v14 and PostgreSQL for optimal performance and data persistence.
+**NyxEclipse** is a powerful, feature-rich Discord bot designed to enhance your server experience with comprehensive moderation tools, engaging economy systems, utility features, and much more. It combines Discord.js v14, Node.js, and PostgreSQL to deliver a powerful, stable, and feature-rich experience across:
+* Moderation
+* Music
+* Economy
+* Leveling
+* Utilities
+* Server Automation
+
+NyxEclipse is designed for performance, reliability, and deep customization — built specifically for multi‑server environments and long‑term community management.
 
 [![Support Server](https://img.shields.io/badge/-Support%20Server-%235865F2?logo=discord&logoColor=white&style=flat-square&logoWidth=20)](https://discord.gg/8kJBYhTGW9)
 [![Discord.js](https://img.shields.io/npm/v/discord.js?style=flat-square&labelColor=%23202225&color=%23202225&logo=npm&logoColor=white&logoWidth=20)](https://www.npmjs.com/package/discord.js)
@@ -18,7 +26,7 @@
 <a name="features-overview"></a>
 ## Features Overview
 
-TitanBot offers a complete suite of tools for Discord server management and community engagement:
+NyxEclipse offers a complete suite of tools for Discord server management and community engagement:
 
 <table>
 <tr>
@@ -95,17 +103,17 @@ TitanBot offers a complete suite of tools for Discord server management and comm
 ## Quick Setup (Recommended for non-coders)
 
 ### Video Tutorial
-For a detailed step-by-step setup guide, watch our comprehensive video tutorial:
+For a detailed step-by-step setup guide on how to set up the TitanBot framework, watch our comprehensive video tutorial:
 [**TitanBot Setup Tutorial**](https://www.youtube.com/@TouchDisc)
 
 ## Docker Deployment (Recommended)
 
-TitanBot is fully containerized for easy deployment.
+NyxEclipse is fully containerized for easy deployment, as it is still essentially TitanBot structure. 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/codebymitch/TitanBot.git
-   cd TitanBot
+   git clone https://github.com/niterayder/NyxEclipse.git
+   cd NyxEclipse
    ```
 
 2. **Configure environment variables:**
@@ -161,8 +169,8 @@ docker pull ghcr.io/codebymitch/titanbot:main
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/codebymitch/TitanBot.git
-   cd TitanBot
+   git clone https://github.com/niterayder/NyxEclipse.git
+   cd NyxEclipse
    ```
 
 2. **Install Dependencies**
@@ -277,10 +285,10 @@ TitanBot requires the following Discord intents:
 
 ## License
 
-TitanBot is released under the MIT License. See [LICENSE](LICENSE) for details.
+NyxEclipse is released under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## Thank You
 
-Thank you for choosing TitanBot for your Discord server! We're constantly working to improve and add new features based on community feedback.
+Thank you for choosing NyxEclipse for your Discord server! We're constantly working to improve and add new features based on community feedback.
 
-*Last updated: May 2026*
+*Last updated: September 2026*
